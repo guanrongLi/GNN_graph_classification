@@ -21,4 +21,4 @@ python gnn.py --dataset your_dataset --type both --gnn edge --gp max
 
 Here we report our result, the detailed setting is shown in our  Term Project report(to be added).
 
-![image-20201218181004526](.\img\image-20201218181004526.png)
+![image-20201218181004526](img/image-20201218181004526.png)
